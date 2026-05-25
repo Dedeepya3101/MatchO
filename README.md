@@ -1,4 +1,16 @@
-# MatchO 👗✨  
+<img width="1873" height="860" alt="image" src="https://github.com/user-attachments/assets/040424ae-7416-44a7-b337-fa0b1f25e97d" />
+# MatchO 👗✨
+
+### 🔗 Live Prototype
+https://silk-to-chic.lovable.app
+## 🎥 Prototype Access
+
+👤 User Dashboard:
+/dashboard/user
+
+✂️ Tailor Dashboard:
+/dashboard/tailor
+ 
 ### Transform Your Saree Into a New Style — Through Trusted Nearby Tailors
 
 MatchO is a platform that connects users who own sarees with skilled nearby tailors who can redesign those sarees into beautiful modern or traditional outfits such as frocks, kurtas, lehengas, gowns, kidswear, crop-top sets, and more.
@@ -147,30 +159,17 @@ Future versions may include:
 - Tailor verification badges
 
 ---
-
-# 🛠️ Tech Stack (Planned)
-
-## Frontend
-- ReactJS
-- Tailwind CSS
-
-## Backend
-- Spring Boot / Node.js
-- REST APIs
-
-## Database
-- MongoDB / MySQL
-
-## Authentication
-- JWT Authentication
-
-## Storage
-- Cloudinary / Firebase Storage
-
-## Deployment
-- Vercel / Render
-
----
+🛠️ Current Prototype Stack
+Lovable
+React
+TypeScript
+Tailwind CSS
+-----------------
+🚀 Planned Production Stack
+Spring Boot / Node.js
+MongoDB
+JWT
+Cloudinary
 
 # 🎯 Vision
 
