@@ -1,8 +1,13 @@
-<img width="1873" height="860" alt="image" src="https://github.com/user-attachments/assets/040424ae-7416-44a7-b337-fa0b1f25e97d" />
+<img width="1873" height="860" alt="image" src="https://github.com/user-attachments/assets/040424ae-7416-44a7-b337-fa0b1f25e97d" /> <img width="1725" height="865" alt="image" src="https://github.com/user-attachments/assets/a46e65e7-112f-4cab-bbd9-190b68ca23ca" />  <img width="1635" height="858" alt="image" src="https://github.com/user-attachments/assets/12d684a7-3d96-4bcd-b28f-27e01e7ebb79" />  <img width="1766" height="864" alt="image" src="https://github.com/user-attachments/assets/2ed2bb0b-47bc-407b-a4b2-29dbb293f6c7" />  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84aaba7c-b3b7-4736-bfde-bee39eec2ae9" />
+<img width="453" height="600" alt="image" src="https://github.com/user-attachments/assets/07a3e533-10ee-434a-a6cf-dc58d5df8dc9" />
+
+
+
+
 # MatchO 👗✨
 
 ### 🔗 Live Prototype
-https://silk-to-chic.lovable.app
+w
 ## 🎥 Prototype Access
 
 👤 User Dashboard:
